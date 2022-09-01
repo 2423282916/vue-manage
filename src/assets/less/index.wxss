@@ -1,0 +1,78 @@
+.manage {
+  height: 90%;
+  padding-bottom: 20px;
+  overflow: hidden;
+}
+.manageheader {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+legend,
+table,
+caption,
+article,
+aside,
+details,
+embed,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+time,
+mark,
+audio,
+video,
+img,
+em,
+blockquote {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  box-sizing: border-box;
+}
+article,
+aside,
+details,
+del,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+body {
+  line-height: 1;
+}

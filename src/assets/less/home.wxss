@@ -1,0 +1,80 @@
+.home .user {
+  width: 370px;
+  height: 140px;
+  border-bottom: 1px solid #c8c8c8;
+}
+.home .user .userinfo {
+  float: right;
+  margin-right: 130px;
+  text-align: center;
+  height: 100%;
+}
+.home .user .userinfo .name {
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 40px;
+}
+.home .user .userinfo .access {
+  color: #c8c8c8;
+  font-size: 13px;
+  margin-top: -16px;
+}
+.home .user img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  image-rendering: auto;
+}
+.home .login-info {
+  margin-bottom: -18px;
+}
+.home .login-info p {
+  font-size: 13px;
+  color: #c8c8c8;
+}
+.home .login-info p span {
+  font-size: 13px;
+  color: #333;
+  margin-left: 20px;
+}
+.home .num {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.home .num .el-card {
+  width: 190px;
+  height: 60px;
+  margin-bottom: 10px;
+}
+.home .num .icon {
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
+  text-align: center;
+  color: #fff;
+  font-size: 22px;
+  margin-right: 10px;
+}
+.home .num .detail {
+  text-align: center;
+}
+.home .num .detail .num {
+  font-size: 18px;
+  font-weight: bold;
+  height: 8px;
+}
+.home .num .detail .txt {
+  font-size: 1px;
+  color: #c8c8c8;
+}
+.home .graph {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.home .graph .el-card {
+  width: 300px;
+}
